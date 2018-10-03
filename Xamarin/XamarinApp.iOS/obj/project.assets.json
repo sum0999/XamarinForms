@@ -722,9 +722,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\Xamarin.iOS.csproj",
-      "projectName": "Xamarin.iOS",
-      "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\Xamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\XamarinApp.iOS.csproj",
+      "projectName": "XamarinApp.iOS",
+      "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\XamarinApp.iOS.csproj",
       "packagesPath": "C:\\Users\\sum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
