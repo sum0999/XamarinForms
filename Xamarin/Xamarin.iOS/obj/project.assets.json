@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin.iOS\\Xamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\Xamarin.iOS.csproj",
       "projectName": "Xamarin.iOS",
-      "projectPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin.iOS\\Xamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\Xamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\sum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -743,8 +743,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\Xamarin.csproj": {
-              "projectPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\Xamarin.csproj"
+            "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\Xamarin.csproj": {
+              "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\Xamarin.csproj"
             }
           }
         }

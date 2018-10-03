@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\Xamarin.csproj",
+      "projectUniqueName": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\Xamarin.csproj",
       "projectName": "Xamarin",
-      "projectPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\Xamarin.csproj",
+      "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\Xamarin.csproj",
       "packagesPath": "C:\\Users\\sum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\obj\\",
+      "outputPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

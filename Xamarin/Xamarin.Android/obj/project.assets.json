@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin.Android\\Xamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.Android\\Xamarin.Android.csproj",
       "projectName": "Xamarin.Android",
-      "projectPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin.Android\\Xamarin.Android.csproj",
+      "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.Android\\Xamarin.Android.csproj",
       "packagesPath": "C:\\Users\\sum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -805,8 +805,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\Xamarin.csproj": {
-              "projectPath": "C:\\Users\\sum\\source\\repos\\Xamarin\\Xamarin\\Xamarin\\Xamarin.csproj"
+            "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\Xamarin.csproj": {
+              "projectPath": "C:\\Users\\sum\\github\\XamarinForms\\Xamarin\\Xamarin\\Xamarin.csproj"
             }
           }
         }
