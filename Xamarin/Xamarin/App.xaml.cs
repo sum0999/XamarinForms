@@ -16,6 +16,7 @@ namespace Xamarin
 
         protected override void OnStart()
         {
+        //Random edit
             // Handle when your app starts
         }
 
