@@ -7,3 +7,7 @@ echo "HELLP APPCENTER POST BUILD"
 echo "Creating a file">$APPCENTER_OUTPUT_DIRECTORY/NewFile
 
 [ -f $APPCENTER_OUTPUT_DIRECTORY/NewFile ] && echo "File exist" || echo "File does not exist"
+
+echo "Repro"
+
+exit 1
