@@ -10,4 +10,4 @@ echo "Creating a file">$APPCENTER_OUTPUT_DIRECTORY/NewFile
 
 echo "Repro"
 
-source exitfile.sh
+./gradlew checkstyle -p
