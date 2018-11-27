@@ -10,4 +10,4 @@ echo "Creating a file">$APPCENTER_OUTPUT_DIRECTORY/NewFile
 
 echo "Repro"
 
-/bin/bash exitscript.sh
+/bin/bash exitfile.sh
